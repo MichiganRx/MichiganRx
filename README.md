@@ -1,7 +1,12 @@
 ### Hi there  eu sou a  Amanda!
 - Cursando Técnico em Desenvolvimento de Sistemas
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div>
+  <a href="https://github.com/MichiganRx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichiganRx&icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+  <img align="righ" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 ### Redes Soci:
 
