@@ -1,7 +1,13 @@
-## Seja muito bem vindo!
-- 👨🏼‍💻 Desenvolvedora Front End React | Next.js
-- 🌱 Cursando Técnico em Desenvolvimento de Sistemas
-- 📫 Contato: amanda.rodri225@gmail.com
+<a align="center" href="https://git.io/typing-svg" height="40">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=2000&pause=1000&color=9160F7&multiline=true&width=435&lines=Amanda+Rodrigues" alt="Typing SVG" />
+  <hr>
+</a>
+
+- 🌸 Desenvolvedora Front End.
+- 📚 Atualmente cursando Técnico em Desenvolvimento de Sistemas.
+- 💻 Experiência em desenvolvimento com Next.js e React.
+- 🎨 Apaixonada por Sass, trazendo estilo e elegância aos projetos.
+- 🚀 Planejo iniciar o curso superior em Sistemas de Informação em 2025 para aprofundar ainda mais meus conhecimentos.
 ##
 
 <div>
