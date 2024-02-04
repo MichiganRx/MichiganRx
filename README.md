@@ -8,6 +8,7 @@
 📚 Cursando Técnico em Desenvolvimento de Sistemas.
 💻 Experiência em desenvolvimento com Next.js e React.
 🎨 Apaixonada por Sass, adicionando estilo e elegância aos projetos.
+
 ##
 
 <div>
