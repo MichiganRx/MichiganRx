@@ -3,11 +3,11 @@
   <hr>
 </a>
 
-- 🌸 Desenvolvedora Front End.
-- 📚 Atualmente cursando Técnico em Desenvolvimento de Sistemas.
-- 💻 Experiência em desenvolvimento com Next.js e React.
-- 🎨 Apaixonada por Sass, trazendo estilo e elegância aos projetos.
-- 🚀 Planejo iniciar o curso superior em Sistemas de Informação em 2025 para aprofundar ainda mais meus conhecimentos.
+🌸 Desenvolvedora Front-End.
+🚀 Cursando Ensino Superior em Sistemas de Informação.
+📚 Cursando Técnico em Desenvolvimento de Sistemas.
+💻 Experiência em desenvolvimento com Next.js e React.
+🎨 Apaixonada por Sass, adicionando estilo e elegância aos projetos.
 ##
 
 <div>
