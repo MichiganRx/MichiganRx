@@ -4,8 +4,8 @@
 </a>
 
 - 🌸 Desenvolvedora Front-End.
+- 📚 Técnica em Desenvolvimento de Sistemas. 
 - 🚀 Cursando Ensino Superior em Sistemas de Informação.
-- 📚 Técnica em Desenvolvimento de Sistemas.
 - 💻 Experiência em desenvolvimento com Next.js e React.
 - 🎨 Apaixonada por Sass, adicionando estilo e elegância aos projetos.
 ##
